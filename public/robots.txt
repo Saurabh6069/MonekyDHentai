@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monkey-d-manga.vercel.app/sitemap.xml
